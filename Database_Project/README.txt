@@ -1,5 +1,4 @@
 Ferris Hussein
-NetID: fmh27
 
 run mainIndex.jsp to display webpage
 
